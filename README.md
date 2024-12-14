@@ -19,7 +19,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - **Source Links**: Direct links to official websites, GitHub repositories, and documentation.
 
 ## Table of contents
-- [Proxmox](#proxmox)
+- [Proxmox - Website](#proxmox---website)
  
 ## How to contribute?
 WIP
