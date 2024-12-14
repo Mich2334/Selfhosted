@@ -7,5 +7,5 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 WIP
 
 ## License
-This project is under [MIT License](LICENSE) license.
-Terms of the license are summarized here: 
+This project is under [MIT License](LICENSE) license. <br>
+Terms of the license are summarized here: [MIT License](LICENSE)
