@@ -13,12 +13,13 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - **Support the Community**: Help users find, install, and manage software on their own servers.
 - **Encourage Contributions**: Build a base of open-source services through collaboration with other technology enthusiasts.
 
-## What Will You Find in This Repository?
+### What Will You Find in This Repository?
 - **Categorized Lists**: All tools are organized into thematic categories, such as monitoring, multimedia, education, or file management.
 - **Short Descriptions**: Each tool is described in a few sentences to quickly convey its functionality.
 - **Source Links**: Direct links to official websites, GitHub repositories, and documentation.
 
-# Table of contents
+## Table of contents
+
 
 ## How to contribute?
 WIP
