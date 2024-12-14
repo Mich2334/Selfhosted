@@ -19,7 +19,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - **Source Links**: Direct links to official websites, GitHub repositories, and documentation.
 
 ## Table of contents
-- [Proxmox](####proxmox)
+- [Proxmox](#proxmox)
  
 ## How to contribute?
 WIP
@@ -27,9 +27,8 @@ WIP
 ### Software
 
 #### Proxmox - [Website](https://www.proxmox.com/en/)
-
 ##### [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/)
-With Tteck's scripts we can easily deploy common containers/VMs in ProxMox. This repository offers wide veriety of scripts for most common Proxmox configurations and deployments. 
+With Tteck's scripts we can easily deploy common containers/VMs in ProxMox. This repository offers wide veriety of scripts for most common Proxmox configurations and deployments.
 
 ## License
 This project is under [MIT](LICENSE) license. <br>
