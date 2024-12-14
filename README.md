@@ -6,6 +6,6 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 ## How to contribute?
 WIP
 
-## Licencja
+## License
 This project is under [MIT License](LICENSE) license.
 Terms of the license are summarized here: 
