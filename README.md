@@ -1,3 +1,4 @@
 # WardenOwls - Self-Host & Open-Source
-![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-blue) ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 This repository is perfect for enthusiasts of open-source and self-hosting who want to explore and deploy powerful software solutions while maintaining control over their data.
