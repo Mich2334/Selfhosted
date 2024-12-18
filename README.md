@@ -42,11 +42,7 @@ Submit a Pull Request with the updated information.
 Think we’re missing a category? Propose a new one and suggest tools that belong to it.
 Add a brief description explaining why this category is important.
 
-4. Share Insights and Tutorials
-Write a short guide or tutorial about setting up or using a tool listed in the repository.
-Include configuration tips, use cases, or integration ideas.
-
-5. Spread the Word
+4. Spread the Word
 Share this repository with others who might find it useful.
 Encourage your community to explore and contribute!
 
