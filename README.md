@@ -22,7 +22,33 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - [Proxmox](#proxmox---website)
  
 ## How to contribute?
-WIP
+🤝 How to Contribute?
+We warmly welcome contributions from everyone, whether you’re a seasoned developer, an open-source enthusiast, or a student exploring technology. Here’s how you can get involved:
+
+1. Suggest New Tools
+Browse your favorite open-source and self-hosted solutions.
+Check if they’re already listed in this repository.
+If not, propose a new addition by opening an issue with the following details:
+ * Name of the tool
+ * A short description (what it does, key features)
+ * Official website or repository link
+ * Category where it fits best
+
+2. Improve Existing Entries
+Found a typo, broken link, or incomplete description? Fix it!
+Submit a Pull Request with the updated information.
+
+3. Expand Categories
+Think we’re missing a category? Propose a new one and suggest tools that belong to it.
+Add a brief description explaining why this category is important.
+
+4. Share Insights and Tutorials
+Write a short guide or tutorial about setting up or using a tool listed in the repository.
+Include configuration tips, use cases, or integration ideas.
+
+5. Spread the Word
+Share this repository with others who might find it useful.
+Encourage your community to explore and contribute!
 
 ### Software
 
