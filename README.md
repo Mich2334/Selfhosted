@@ -19,7 +19,11 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - **Source Links**: Direct links to official websites, GitHub repositories, and documentation.
 
 ## Table of contents
-- [Proxmox](#proxmox---website)
+* Software 
+* Selfhosted
+  * Virtualization
+  * Web Servers
+  * Wikis
  
 ## How to contribute?
 🤝 How to Contribute?
@@ -48,7 +52,13 @@ Encourage your community to explore and contribute!
 
 ### Software
 
-#### Proxmox - [Website](https://www.proxmox.com/en/)
+### Virtualization
+
+| Logo                                                                                                                                               | Name    | Description                                                                                                                                                                                                                                                                                                                                                                                                                   | Link to page                | Link to Github             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------------------------|
+| ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33) | Proxmox | Proxmox VE is an open-source platform for enterprise-level virtualization. It integrates powerful technologies like KVM for virtual machines and LXC for containers, enabling efficient resource management. Proxmox also offers advanced features such as high availability, live migration, and a built-in web-based management interface. It's ideal for managing virtualized infrastructures in self-hosted environments. | https://www.proxmox.com/en/ | https://github.com/proxmox |
+|                                                                                                                                                    |         |                                                                                                                                                                                                                                                                                                                                                                                                                               |                             |                            |
+|                                                                                                                                                    |         |                                                                                                                                                                                                                                                                                                                                                                                                                               |                             |                            |
 ##### [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/)
 With Tteck's scripts we can easily deploy common containers/VMs in ProxMox. This repository offers wide veriety of scripts for most common Proxmox configurations and deployments.
 
