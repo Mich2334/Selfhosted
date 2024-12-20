@@ -19,9 +19,11 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 - **Source Links**: Direct links to official websites, GitHub repositories, and documentation.
 
 ## Table of contents
-* Software 
+* Software
+  * Admin Tools
 * Selfhosted
   * Virtualization
+  * IT Asset Management
   * Web Servers
   * Wikis
  
@@ -51,6 +53,14 @@ Share this repository with others who might find it useful.
 Encourage your community to explore and contribute!
 
 ### Software
+
+### IT Asset management
+
+| Logo | Name          | Description                                                                                                                                                                                                                                                                                                           | Link to Website                                 | Link to Github                               |
+|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------|
+|      | GLPI          | GLPI is open-source tool for IT Asset Management. It provides option to manage assets and create powerfull documentation. It could be integrated with Inventory Fusion for automatic reports creation and generating documentation of computers.                                                                      | [Website](https://glpi-project.org/pl/)         | [Github](https://github.com/glpi-project)    |
+|      | OCS Inventory | Open computers and software inventory is an asset management solution It is an open source software. It allows you to scan and inventory all your devices in your IT Department. Once you know everything about your machines, on hardware and software sides, you can deploy packages to keep your environment safe. | [Website](https://ocsinventory-ng.org/?lang=en) | [Github](https://github.com/ocsinventory-ng) |
+|      |               |                                                                                                                                                                                                                                                                                                                       |                                                 |                                              |
 
 ### Virtualization
 
