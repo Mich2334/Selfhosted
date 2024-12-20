@@ -22,6 +22,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 * Software
   * Admin Tools
 * Selfhosted
+  * Cybersecurity
   * Virtualization
   * IT Asset Management
   * Web Servers
@@ -52,7 +53,21 @@ Add a brief description explaining why this category is important.
 Share this repository with others who might find it useful.
 Encourage your community to explore and contribute!
 
-### Software
+## Software
+
+### Programming
+
+| Logo | Name     | Description                                                                                                                                                                                                    | Link to website                  | Link to Github                                     |
+|------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------|
+|      | Sonic PI | Sonic Pi is an open-source program that allows you to create music with code. The program comes with some pre-installed samples and sound effect you can then mix and modify with code and save as .wav files. | [Website](https://sonic-pi.net/) | [Github](https://github.com/sonic-pi-net/sonic-pi) |
+
+### Cybersecurity
+
+| Logo | Name                                   | Description                                                                                                                                                                                  | Link to website | Link to Github                              |
+|------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------|
+|      | Damn Vulnerable Web Application (DVWA) | Damn Vulnerable Web Application (DVWA) is a web application that you can host on your own PC to practice common web vulnerabilities (such as SQL injection or CSRF) in a safe and legal way. |                 | [Github](https://github.com/digininja/DVWA) |
+
+## Selfhost
 
 ### IT Asset management
 
