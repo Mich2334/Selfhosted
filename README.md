@@ -1,5 +1,5 @@
 # 🌐 WardenOwls - Selfhost & Open-Source
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![MIT License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/Mich2334/self-host?style=social) 
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![Stars](https://img.shields.io/github/stars/Mich2334/self-host?style=social) 
 
 A collection of self-hosted and open-source tools for a wide range of use cases curated by members of WardenOwls student club. 
 
