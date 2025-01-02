@@ -23,10 +23,10 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * Admin Tools
 * Selfhosted
   * [Containerization](#Containerization)
-  * [Cybersecurity](#Cybersecurity)1
+  * [Cybersecurity](#Cybersecurity)
   * [Virtualization](#Virtualization)
-  * [IT Asset Management](#IT Asset Management)
-  * [Web Servers](#Web Servers)
+  * [IT Asset Management](#IT-Asset-Management)
+  * [Web Servers](#Web-Servers)
   * [Wikis](#Wikis)
  
 ## How to contribute?
