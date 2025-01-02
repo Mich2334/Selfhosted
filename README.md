@@ -22,11 +22,11 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 * Software
   * Admin Tools
 * Selfhosted
-  * Containerization
-  * Cybersecurity
-  * Virtualization
-  * IT Asset Management
-  * Web Servers
+  * [Containerization](#Containerization)
+  * [Cybersecurity](#Cybersecurity)1
+  * [Virtualization](#Virtualization)
+  * [IT Asset Management](#IT Asset Management)
+  * [Web Servers](#Web Servers)
   * [Wikis](#Wikis)
  
 ## How to contribute?
@@ -79,7 +79,7 @@ Encourage your community to explore and contribute!
 |------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------|
 |      | Damn Vulnerable Web Application (DVWA) | Damn Vulnerable Web Application (DVWA) is a web application that you can host on your own PC to practice common web vulnerabilities (such as SQL injection or CSRF) in a safe and legal way. |                 | [Github](https://github.com/digininja/DVWA) |
 
-### IT Asset management
+### IT Asset Management
 
 | Logo | Name          | Description                                                                                                                                                                                                                                                                                                           | Link to Website                                 | Link to Github                               |
 |------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------|
