@@ -27,7 +27,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * Virtualization
   * IT Asset Management
   * Web Servers
-  * Wikis
+  * [Wikis](#Wikis)
  
 ## How to contribute?
 🤝 How to Contribute?
