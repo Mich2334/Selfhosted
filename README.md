@@ -24,8 +24,8 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 * Selfhosted
   * [Containerization](#Containerization)
   * [Cybersecurity](#Cybersecurity)
-  * [Virtualization](#Virtualization)
   * [IT Asset Management](#IT-Asset-Management)
+  * [Virtualization](#Virtualization)
   * [Web Servers](#Web-Servers)
   * [Wikis](#Wikis)
  
