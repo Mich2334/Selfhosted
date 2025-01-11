@@ -25,6 +25,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * [Containerization](#Containerization)
   * [Cybersecurity](#Cybersecurity)
   * [IT Asset Management](#IT-Asset-Management)
+  * [Remote Access](#Remote-Access)
   * [Virtualization](#Virtualization)
   * [Web Servers](#Web-Servers)
   * [Wikis](#Wikis)
@@ -94,6 +95,14 @@ Encourage your community to explore and contribute!
 |      | Parts DB  | Part-DB is an Open-Source inventory management system for your electronic components. It is installed on a web server and so can be accessed with any browser without the need to install additional software.     | [Website](https://docs.part-db.de)               | [Github](https://github.com/Part-DB/Part-DB-server) |
 |      | Homebox   | Homebox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs. | [Website](https://homebox.software/en/)          | [Github](https://github.com/sysadminsmedia/homebox) |
 |      | Inventree | InvenTree is an open-source inventory management system which provides intuitive parts management and stock control.                                                                                               | [Website](https://docs.inventree.org/en/stable/) | [Github](https://github.com/inventree)              |
+
+### Remote Access
+
+| Logo                                                                                | Name             | Description                                                                                                                                                                                                                                          | Link to Website                         | Link to Github                                       |
+|-------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------------------------------|
+|                                                                                     | Shell in a box   | Shell In A Box implements a web server that can export arbitrary command line tools to a web based terminal emulator. This emulator is accessible to any JavaScript and CSS enabled web browser and does not require any additional browser plugins. |                                         | [Github](https://github.com/shellinabox/shellinabox) |
+| ![Guacamole Logo](https://guacamole.apache.org/images/logos/guac-tricolor-logo.svg) | Apache Guacamole | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.                                                                                                                                      | [Website](https://guacamole.apache.org) | [Github](https://github.com/apache/guacamole-server) |
+
 
 ### Virtualization
 
