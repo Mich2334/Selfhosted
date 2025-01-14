@@ -24,6 +24,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 * Selfhosted
   * [Containerization](#Containerization)
   * [Cybersecurity](#Cybersecurity)
+  * [Games](#Games)
   * [IT Asset Management](#IT-Asset-Management)
   * [Inventory management](#Inventory-Management)
   * [Remote Access](#Remote-Access)
@@ -80,6 +81,15 @@ Encourage your community to explore and contribute!
 | Logo | Name                                   | Description                                                                                                                                                                                  | Link to website | Link to Github                              |
 |------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------|
 |      | Damn Vulnerable Web Application (DVWA) | Damn Vulnerable Web Application (DVWA) is a web application that you can host on your own PC to practice common web vulnerabilities (such as SQL injection or CSRF) in a safe and legal way. |                 | [Github](https://github.com/digininja/DVWA) |
+
+
+### Games
+
+| Logo | Name      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                | Link to page                             | Link to Github                                   |
+|------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------------------------------------------------|
+|      | Moonlight | Moonlight (formerly Limelight) is an open source implementation of NVIDIA's GameStream protocol. We implemented the protocol used by the NVIDIA Shield and wrote a set of 3rd party clients.  You can stream your collection of PC games from your gaming PC to any supported device and play them remotely. Moonlight is perfect for gaming on the go without sacrificing the graphics and game selection available on PC.                                | [Website](https://moonlight-stream.org)  | [Github](https://github.com/moonlight-stream)    |
+|      | Sunshine  | Sunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device. |                                          | [Github](https://github.com/LizardByte/Sunshine) |
+|      | LinuxGSM  | LinuxGSM (Linux Game Server Managers) is a comprehensive collection of scripts and tools designed to simplify the management of game servers on the Linux operating system.                                                                                                                                                                                                                                                                                | [Website](https://linuxgsm.com/servers/) | [Github](https://github.com/GameServerManagers)  |
 
 ### IT Asset Management
 
