@@ -27,6 +27,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * [Games](#Games)
   * [IT Asset Management](#IT-Asset-Management)
   * [Inventory management](#Inventory-Management)
+  * [Notifications](#Notifications)
   * [Remote Access](#Remote-Access)
   * [Virtualization](#Virtualization)
   * [Web Servers](#Web-Servers)
@@ -105,6 +106,14 @@ Encourage your community to explore and contribute!
 |      | Parts DB  | Part-DB is an Open-Source inventory management system for your electronic components. It is installed on a web server and so can be accessed with any browser without the need to install additional software.     | [Website](https://docs.part-db.de)               | [Github](https://github.com/Part-DB/Part-DB-server) |
 |      | Homebox   | Homebox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs. | [Website](https://homebox.software/en/)          | [Github](https://github.com/sysadminsmedia/homebox) |
 |      | Inventree | InvenTree is an open-source inventory management system which provides intuitive parts management and stock control.                                                                                               | [Website](https://docs.inventree.org/en/stable/) | [Github](https://github.com/inventree)              |
+
+### Notifications
+
+| Logo                                                                                                         | Name    | Description                                                                                                                                                                        | Link to Website               | Link to Github                                  |
+|--------------------------------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------------------------|
+|                                                                                                              | Apprise | Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc |                               | [Github](https://github.com/caronc/apprise)     |
+| ![Guacamole Logo](https://avatars.githubusercontent.com/u/36410427?s=200&v=4?raw=true)                       | Gotify  | Gotify is a server for sending and receiving messages in real time per web socket. This app subscribes to the web socket and creates push notifications on new messages.           | [Website](https://gotify.net) | [Github](https://github.com/gotify)             |
+| ![Rustdesk Logo](https://github.com/binwiederhier/ntfy/blob/main/web/public/static/images/ntfy.png?raw=true) | Ntfy    | ntfy lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests.                                              | [Website](ntfy.sh)            | [Github](https://github.com/binwiederhier/ntfy) |
 
 ### Remote Access
 
