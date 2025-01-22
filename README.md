@@ -27,6 +27,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * [Games](#Games)
   * [IT Asset Management](#IT-Asset-Management)
   * [Inventory management](#Inventory-Management)
+  * [Knowlage Management](#Knowlage-Management)
   * [Notifications](#Notifications)
   * [Remote Access](#Remote-Access)
   * [Virtualization](#Virtualization)
@@ -106,6 +107,14 @@ Encourage your community to explore and contribute!
 |      | Parts DB  | Part-DB is an Open-Source inventory management system for your electronic components. It is installed on a web server and so can be accessed with any browser without the need to install additional software.     | [Website](https://docs.part-db.de)               | [Github](https://github.com/Part-DB/Part-DB-server) |
 |      | Homebox   | Homebox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs. | [Website](https://homebox.software/en/)          | [Github](https://github.com/sysadminsmedia/homebox) |
 |      | Inventree | InvenTree is an open-source inventory management system which provides intuitive parts management and stock control.                                                                                               | [Website](https://docs.inventree.org/en/stable/) | [Github](https://github.com/inventree)              |
+
+### Knowlage Management 
+
+| Logo                                                                          | Name       | Description                                                                                                                                                                                                                                                                                                                                                               | Link to Website                         | Link to Github                           |
+|-------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------------------|
+| ![AppFlowy](https://avatars.githubusercontent.com/u/86002201?s=200&v=4)       | AppFlow    | AppFlowy is an open-source alternative to tools like Notion and Trello that allows users to create and manage notes, tasks, and projects in a customizable and private environment. It is designed to provide flexibility and control, especially for individuals or organizations that value open-source software or require self-hosting for privacy and data security. | [Github](https://appflowy.io)           | [Github](https://github.com/AppFlowy-IO) |
+| ![SiYuan Logo](https://avatars.githubusercontent.com/u/70468694?s=200&v=4)    | SiYuan     | SiYuan is a privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync.                                                                                                                                                                                                                           | [Website](https://b3log.org/siyuan/en/) | [Github](https://github.com/siyuan-note) |
+| ![Excildraw Logo](https://avatars.githubusercontent.com/u/59452120?s=200&v=4) | Excalidraw | Excalidraw is an open-source whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. Available directly online as a web app and also through CodeSandbox to easily see how the code works, and the app is available for self-hosting.                                                                                                   | [Website](https://excalidraw.com)       | [Github](https://github.com/excalidraw)  |
 
 ### Notifications
 
