@@ -30,6 +30,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * [Knowlage Management](#Knowlage-Management)
   * [Notifications](#Notifications)
   * [Remote Access](#Remote-Access)
+  * [RSS](#RSS)
   * [Virtualization](#Virtualization)
   * [Web Servers](#Web-Servers)
   * [Wikis](#Wikis)
@@ -131,6 +132,12 @@ Encourage your community to explore and contribute!
 |                                                                                                                 | Shell in a box   | Shell In A Box implements a web server that can export arbitrary command line tools to a web based terminal emulator. This emulator is accessible to any JavaScript and CSS enabled web browser and does not require any additional browser plugins. |                                         | [Github](https://github.com/shellinabox/shellinabox) |
 | ![Guacamole Logo](https://guacamole.apache.org/images/logos/guac-tricolor-logo.svg)                             | Apache Guacamole | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.                                                                                                                                      | [Website](https://guacamole.apache.org) | [Github](https://github.com/apache/guacamole-server) |
 | ![Rustdesk Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/240px-Rustdesk.svg.png) | RustDesk         | RustDesk is a full-featured open source remote control alternative for self-hosting and security with minimal configuration. You have full control of your data, with no concerns about security.                                                    |                                         |                                                      |
+
+### RSS
+
+| Logo | Name      | Description                                                                                                                                                   | Link to Website | Link to Github                                     |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------|
+|      | RSS Guard | RSS Guard is an open-source feed reader supporting RSS and ATOM feeds (among others). It can also be used to play podcasts and also supports Gemini protocol. |                 | [Github](https://github.com/martinrotter/rssguard) |
 
 ### Virtualization
 
