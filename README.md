@@ -20,11 +20,12 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
 
 ## Table of contents
 * Software
-  * Admin Tools
+  * [Programming](#Programming)
 * Selfhosted
   * [Containerization](#Containerization)
   * [Cybersecurity](#Cybersecurity)
   * [Games](#Games)
+  * [IoT](#IoT)
   * [IT Asset Management](#IT-Asset-Management)
   * [Inventory management](#Inventory-Management)
   * [Knowlage Management](#Knowlage-Management)
@@ -32,6 +33,7 @@ This repository is perfect for enthusiasts of open-source and self-hosting who w
   * [Remote Access](#Remote-Access)
   * [RSS](#RSS)
   * [Virtualization](#Virtualization)
+  * [VPNs](#VPNs)
   * [Web Servers](#Web-Servers)
   * [Wikis](#Wikis)
  
